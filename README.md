@@ -1,1 +1,1 @@
-# cpp_playground
+# cpp_course
